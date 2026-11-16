@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shadownet-demo
+    name: SHADOWNET
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
